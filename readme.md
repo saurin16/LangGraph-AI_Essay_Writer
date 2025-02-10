@@ -34,7 +34,7 @@ This project provides an interface for generating essays using AI-based text gen
 
 Run the Jupyter Notebook to interact with the Essay Writer Interface:
 ```bash
-jupyter notebook Lesson_6_Student.ipynb
+jupyter EssayWriter.ipynb
 ```
 
 Or execute the script in a Python environment:
@@ -53,7 +53,7 @@ python script.py
 
 ## Screenshots
 Here are some screenshots showcasing the interface and functionality:
-
+![Screenshot 3](image-3.png)
 ![Screenshot 1](output1.png)
 ![Screenshot 2](output2.png)
 
